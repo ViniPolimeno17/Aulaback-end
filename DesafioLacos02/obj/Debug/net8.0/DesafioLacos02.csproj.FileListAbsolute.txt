@@ -1,0 +1,14 @@
+C:\Users\47766024829\Desktop\Aula-BackEnd\DesafioLacos02\obj\Debug\net8.0\DesafioLacos02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766024829\Desktop\Aula-BackEnd\DesafioLacos02\obj\Debug\net8.0\DesafioLacos02.AssemblyInfoInputs.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\DesafioLacos02\obj\Debug\net8.0\DesafioLacos02.AssemblyInfo.cs
+C:\Users\47766024829\Desktop\Aula-BackEnd\DesafioLacos02\obj\Debug\net8.0\DesafioLacos02.csproj.CoreCompileInputs.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\DesafioLacos02\bin\Debug\net8.0\DesafioLacos02.exe
+C:\Users\47766024829\Desktop\Aula-BackEnd\DesafioLacos02\bin\Debug\net8.0\DesafioLacos02.deps.json
+C:\Users\47766024829\Desktop\Aula-BackEnd\DesafioLacos02\bin\Debug\net8.0\DesafioLacos02.runtimeconfig.json
+C:\Users\47766024829\Desktop\Aula-BackEnd\DesafioLacos02\bin\Debug\net8.0\DesafioLacos02.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\DesafioLacos02\bin\Debug\net8.0\DesafioLacos02.pdb
+C:\Users\47766024829\Desktop\Aula-BackEnd\DesafioLacos02\obj\Debug\net8.0\DesafioLacos02.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\DesafioLacos02\obj\Debug\net8.0\refint\DesafioLacos02.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\DesafioLacos02\obj\Debug\net8.0\DesafioLacos02.pdb
+C:\Users\47766024829\Desktop\Aula-BackEnd\DesafioLacos02\obj\Debug\net8.0\DesafioLacos02.genruntimeconfig.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\DesafioLacos02\obj\Debug\net8.0\ref\DesafioLacos02.dll
