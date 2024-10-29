@@ -1,0 +1,15 @@
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays03\bin\Debug\net8.0\Arrays03.exe
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays03\bin\Debug\net8.0\Arrays03.deps.json
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays03\bin\Debug\net8.0\Arrays03.runtimeconfig.json
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays03\bin\Debug\net8.0\Arrays03.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays03\bin\Debug\net8.0\Arrays03.pdb
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays03\obj\Debug\net8.0\Arrays03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays03\obj\Debug\net8.0\Arrays03.AssemblyInfoInputs.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays03\obj\Debug\net8.0\Arrays03.AssemblyInfo.cs
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays03\obj\Debug\net8.0\Arrays03.csproj.CoreCompileInputs.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays03\obj\Debug\net8.0\Arrays03.sourcelink.json
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays03\obj\Debug\net8.0\Arrays03.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays03\obj\Debug\net8.0\refint\Arrays03.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays03\obj\Debug\net8.0\Arrays03.pdb
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays03\obj\Debug\net8.0\Arrays03.genruntimeconfig.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays03\obj\Debug\net8.0\ref\Arrays03.dll

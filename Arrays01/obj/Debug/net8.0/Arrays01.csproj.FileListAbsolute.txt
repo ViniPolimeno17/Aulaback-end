@@ -1,0 +1,15 @@
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays01\bin\Debug\net8.0\Arrays01.exe
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays01\bin\Debug\net8.0\Arrays01.deps.json
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays01\bin\Debug\net8.0\Arrays01.runtimeconfig.json
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays01\bin\Debug\net8.0\Arrays01.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays01\bin\Debug\net8.0\Arrays01.pdb
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays01\obj\Debug\net8.0\Arrays01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays01\obj\Debug\net8.0\Arrays01.AssemblyInfoInputs.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays01\obj\Debug\net8.0\Arrays01.AssemblyInfo.cs
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays01\obj\Debug\net8.0\Arrays01.csproj.CoreCompileInputs.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays01\obj\Debug\net8.0\Arrays01.sourcelink.json
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays01\obj\Debug\net8.0\Arrays01.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays01\obj\Debug\net8.0\refint\Arrays01.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays01\obj\Debug\net8.0\Arrays01.pdb
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays01\obj\Debug\net8.0\Arrays01.genruntimeconfig.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\Arrays01\obj\Debug\net8.0\ref\Arrays01.dll
