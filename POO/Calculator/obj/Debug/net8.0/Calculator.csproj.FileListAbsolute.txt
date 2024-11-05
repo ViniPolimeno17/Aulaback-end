@@ -1,0 +1,5 @@
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
