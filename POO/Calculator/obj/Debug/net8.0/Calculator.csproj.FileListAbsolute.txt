@@ -3,3 +3,13 @@ C:\Users\47766024829\Desktop\Aula-BackEnd\POO\Calculator\obj\Debug\net8.0\Calcul
 C:\Users\47766024829\Desktop\Aula-BackEnd\POO\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
 C:\Users\47766024829\Desktop\Aula-BackEnd\POO\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\47766024829\Desktop\Aula-BackEnd\POO\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\Calculator\obj\Debug\net8.0\ref\Calculator.dll

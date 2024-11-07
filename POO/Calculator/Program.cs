@@ -4,12 +4,13 @@
 // numero1 float
 // numero2 float
 // Métodos - todos devem retornar void e receber os dois números por parâmetro
-// Somar()
+// Somar()A
 // Subtrair()
 // Multiplicar()
 // Dividir()
-namespace Calculator.Classes.Calculadora;
+using Calculator.Classes;
 
+Console.Clear();
 Console.WriteLine($@"
              <--Bem-vindo ao NuBankinho-->
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛
@@ -38,19 +39,50 @@ Console.WriteLine($@"
 ⬜⬜⬜🟥🟥🟥⬜🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜🟥🟧⬜⬜🟥🟧⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜");
 
-Calculadora numero1 = new Calculadora();
-Calculadora numero2 = new Calculadora();
+Calculadora calc = new Calculadora();
 
 
 Console.WriteLine($"Escreva um numero");
- float n1 = float.Parse(Console.ReadLine());
+float numero1 = float.Parse(Console.ReadLine()!);
 
 Console.WriteLine($"Escreva um numero");
-float n2 = float.Parse(Console.ReadLine());
+float numero2 = float.Parse(Console.ReadLine()!);
 
-Console.WriteLine({Somar()});
-Console.WriteLine({Subtração()});
-Console.WriteLine({Multiplicação()});
-Console.WriteLine({Divisão()});
+calc.numero1 = numero1;
+calc.numero2 = numero2;
+
+Console.WriteLine(@"
+    <-Escolha a operação->
+    1- Adição
+    2- Subtração
+    3- Multiplicação
+    4- Divisão");
+string operacoes = Console.ReadLine()!;
+
+if (operacoes == "1")
+{
+    calc.Somar();    
+    Console.WriteLine();
+}
+if (operacoes == "2")
+{
+    calc.Subtrair();
+    Console.WriteLine();
+    
+}
+else if (operacoes == "3")
+{
+    calc.Multiplicacao();
+    Console.WriteLine();
+    
+}
+else if(operacoes == "4")
+{
+    calc.Divisao();
+}
+else
+{
+    Console.WriteLine($"Conta inválida!!!");
+}
 
 

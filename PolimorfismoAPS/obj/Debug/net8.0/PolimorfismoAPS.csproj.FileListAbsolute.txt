@@ -1,0 +1,15 @@
+C:\Users\47766024829\Desktop\Aula-BackEnd\PolimorfismoAPS\bin\Debug\net8.0\PolimorfismoAPS.exe
+C:\Users\47766024829\Desktop\Aula-BackEnd\PolimorfismoAPS\bin\Debug\net8.0\PolimorfismoAPS.deps.json
+C:\Users\47766024829\Desktop\Aula-BackEnd\PolimorfismoAPS\bin\Debug\net8.0\PolimorfismoAPS.runtimeconfig.json
+C:\Users\47766024829\Desktop\Aula-BackEnd\PolimorfismoAPS\bin\Debug\net8.0\PolimorfismoAPS.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\PolimorfismoAPS\bin\Debug\net8.0\PolimorfismoAPS.pdb
+C:\Users\47766024829\Desktop\Aula-BackEnd\PolimorfismoAPS\obj\Debug\net8.0\PolimorfismoAPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766024829\Desktop\Aula-BackEnd\PolimorfismoAPS\obj\Debug\net8.0\PolimorfismoAPS.AssemblyInfoInputs.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\PolimorfismoAPS\obj\Debug\net8.0\PolimorfismoAPS.AssemblyInfo.cs
+C:\Users\47766024829\Desktop\Aula-BackEnd\PolimorfismoAPS\obj\Debug\net8.0\PolimorfismoAPS.csproj.CoreCompileInputs.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\PolimorfismoAPS\obj\Debug\net8.0\PolimorfismoAPS.sourcelink.json
+C:\Users\47766024829\Desktop\Aula-BackEnd\PolimorfismoAPS\obj\Debug\net8.0\PolimorfismoAPS.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\PolimorfismoAPS\obj\Debug\net8.0\refint\PolimorfismoAPS.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\PolimorfismoAPS\obj\Debug\net8.0\PolimorfismoAPS.pdb
+C:\Users\47766024829\Desktop\Aula-BackEnd\PolimorfismoAPS\obj\Debug\net8.0\PolimorfismoAPS.genruntimeconfig.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\PolimorfismoAPS\obj\Debug\net8.0\ref\PolimorfismoAPS.dll

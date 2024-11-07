@@ -1,0 +1,15 @@
+C:\Users\47766024829\Desktop\Aula-BackEnd\Desafioforeach01\obj\Debug\net8.0\Desafioforeach01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766024829\Desktop\Aula-BackEnd\Desafioforeach01\obj\Debug\net8.0\Desafioforeach01.AssemblyInfoInputs.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\Desafioforeach01\obj\Debug\net8.0\Desafioforeach01.AssemblyInfo.cs
+C:\Users\47766024829\Desktop\Aula-BackEnd\Desafioforeach01\obj\Debug\net8.0\Desafioforeach01.csproj.CoreCompileInputs.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\Desafioforeach01\obj\Debug\net8.0\Desafioforeach01.sourcelink.json
+C:\Users\47766024829\Desktop\Aula-BackEnd\Desafioforeach01\bin\Debug\net8.0\Desafioforeach01.exe
+C:\Users\47766024829\Desktop\Aula-BackEnd\Desafioforeach01\bin\Debug\net8.0\Desafioforeach01.deps.json
+C:\Users\47766024829\Desktop\Aula-BackEnd\Desafioforeach01\bin\Debug\net8.0\Desafioforeach01.runtimeconfig.json
+C:\Users\47766024829\Desktop\Aula-BackEnd\Desafioforeach01\bin\Debug\net8.0\Desafioforeach01.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\Desafioforeach01\bin\Debug\net8.0\Desafioforeach01.pdb
+C:\Users\47766024829\Desktop\Aula-BackEnd\Desafioforeach01\obj\Debug\net8.0\Desafioforeach01.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\Desafioforeach01\obj\Debug\net8.0\refint\Desafioforeach01.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\Desafioforeach01\obj\Debug\net8.0\Desafioforeach01.pdb
+C:\Users\47766024829\Desktop\Aula-BackEnd\Desafioforeach01\obj\Debug\net8.0\Desafioforeach01.genruntimeconfig.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\Desafioforeach01\obj\Debug\net8.0\ref\Desafioforeach01.dll
