@@ -1,0 +1,15 @@
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\DesafioJogo\bin\Debug\net8.0\DesafioJogo.exe
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\DesafioJogo\bin\Debug\net8.0\DesafioJogo.deps.json
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\DesafioJogo\bin\Debug\net8.0\DesafioJogo.runtimeconfig.json
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\DesafioJogo\bin\Debug\net8.0\DesafioJogo.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\DesafioJogo\bin\Debug\net8.0\DesafioJogo.pdb
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\DesafioJogo\obj\Debug\net8.0\DesafioJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\DesafioJogo\obj\Debug\net8.0\DesafioJogo.AssemblyInfoInputs.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\DesafioJogo\obj\Debug\net8.0\DesafioJogo.AssemblyInfo.cs
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\DesafioJogo\obj\Debug\net8.0\DesafioJogo.csproj.CoreCompileInputs.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\DesafioJogo\obj\Debug\net8.0\DesafioJogo.sourcelink.json
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\DesafioJogo\obj\Debug\net8.0\DesafioJogo.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\DesafioJogo\obj\Debug\net8.0\refint\DesafioJogo.dll
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\DesafioJogo\obj\Debug\net8.0\DesafioJogo.pdb
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\DesafioJogo\obj\Debug\net8.0\DesafioJogo.genruntimeconfig.cache
+C:\Users\47766024829\Desktop\Aula-BackEnd\POO\DesafioJogo\obj\Debug\net8.0\ref\DesafioJogo.dll
