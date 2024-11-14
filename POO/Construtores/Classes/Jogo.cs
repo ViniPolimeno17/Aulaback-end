@@ -2,22 +2,21 @@ namespace Construtores.Classes
 {
     public class Jogo
     {
-        public string nome { get; set; }
+        public string? nome { get; set; }
 
         public int lancamento { get; set; }
-        public string genero { get; set; }
-  
+        public string? genero { get; set; }
         public float preco { get; set; }
 
 
-        public Jogo(string no, int lan, string ge, float pre)
+        public Jogo()
         {
-            nome = no;
-            lancamento = lan;
-            genero = ge;
-            preco = pre;
+        //     nome = no;
+        //     lancamento = lan;
+        //     genero = ge;
+        //     preco = pre;
 
-            Console.WriteLine($"O jogo foi criado");
+            // Console.WriteLine($"O jogo foi criado");
 
         }
          public void ExibirDados()
