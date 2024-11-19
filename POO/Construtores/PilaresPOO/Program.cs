@@ -1,97 +1,30 @@
 ﻿using PilaresPOO.Classes.Aprendizagem;
+using PilaresPOO.Classes.Pilares;
 
-// Pessoa joao = new Pessoa();
-// joao.nome = "Joao";
+Console.Clear();
 
-// Console.WriteLine($"{joao.nome} Nasceu com {joao.idade} anos.");
-// Console.WriteLine();
-// Console.WriteLine();
+Console.WriteLine(@"⠀
 
-// Professor sam = new Professor(123321);
-// sam.nome = "Samanta";
-// sam.idade = 22;
+⠀ ⢀⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⣀⣠⣤⡤⠖⠚⠁
+⠀⣰⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⢀⣀⣠⣤⣴⣶⡿⠿⠛⠉⠀⠀⠀⠀⠀
+⢰⣿⣿⣧⣀⣀⣀⣀⣀⣤⣴⣶⣶⣿⣿⣿⠿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠙⢿⣿⣿⣿⣿⡿⠿⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+");
 
+ContaCorrente ctVini = new ContaCorrente();
+ctVini.Titular = "Vinicius Bernardo";
+ctVini.Depositar(100000f);
+// ctVini.Saldo = 0;
+Console.WriteLine($"Titular da Conta: {ctVini.Titular}");
+Console.WriteLine($"Saldo da Conta: {ctVini.getSaldo()}");
 
-Carro carro = new Carro();
-Aviao aviao = new Aviao();
-Motos motos = new Motos();
+float valorSacado = ctVini.Sacar(1200f);
 
-carro.marca = "Chevrolet";
-carro.modelo = "Opala";
-carro.cor = "Vermelho";
-carro.potencia = 550f;
-carro.qtdPassageiro = 2;
-carro.qtdPortas = 4;
-
-aviao.marca = "Cessna";
-aviao.modelo = "jato";
-aviao.cor = "Branco";
-aviao.potencia = 165.000f;
-aviao.qtdPassageiro = 20;
-aviao.qtdPortas = 2;
-
-motos.marca = "KTM";
-motos.modelo = "Super Duke R";
-motos.cor = "Laranja";
-motos.potencia = 1200f;
-motos.qtdPassageiro = 2;
-
-
-
-Console.WriteLine();
-Console.WriteLine();
-Console.WriteLine($"<--Carros-->");
-Console.WriteLine($"Marca: {carro.marca}");
-Console.WriteLine($"Modelo: {carro.modelo}");
-Console.WriteLine($"Cor: {carro.cor}");
-Console.WriteLine($"Potência {carro.potencia}");
-Console.WriteLine($"Quantidade de passageiros: {carro.qtdPassageiro}");
-Console.WriteLine($"Quantidade Portas: {carro.qtdPortas}");
-Console.WriteLine();
-Console.WriteLine();
-
-Console.WriteLine($"<--Avião-->");
-Console.WriteLine($"Marca: {aviao.marca}");
-Console.WriteLine($"Modelo: {aviao.modelo}");
-Console.WriteLine($"Cor: {aviao.cor}");
-Console.WriteLine($"Potência {aviao.potencia}");
-Console.WriteLine($"Quantidade de passageiros: {aviao.qtdPassageiro}");
-Console.WriteLine($"Quantidade Portas: {aviao.qtdPortas}");
-Console.WriteLine();
-Console.WriteLine();
-
-
-Console.WriteLine($"<--Motos-->");
-Console.WriteLine($"Marca: {motos.marca}");
-Console.WriteLine($"Modelo: {motos.modelo}");
-Console.WriteLine($"Cor: {motos.cor}");
-Console.WriteLine($"Potência {motos.potencia}");
-Console.WriteLine($"Quantidade de passageiros: {motos.qtdPassageiro}");
-// Console.WriteLine();
+Console.WriteLine($"Valor do Saque: {valorSacado}");
+Console.WriteLine($"Novo Saldo: {ctVini.getSaldo()}");
 
 
 
 
-// Aluno gui = new Aluno();
-
-// gui.nome = "Guilherme";
-// gui.idade = 17;
-// gui.matricula = 1234567;
-// gui.curso = "Dev";
-// gui.media = 7.5f;
-
-// Console.WriteLine($"Qual seu nome?");
-// gui.nome = Console.ReadLine()!;
-
-// Console.WriteLine();
-// Console.WriteLine($"Curso: {gui.curso}");
-// Console.WriteLine($"Professor: {sam.nome}");
-// Console.WriteLine($"Identificação: {sam.nif}");
-// Console.WriteLine();
-// Console.WriteLine();
-// Console.WriteLine($"Aluno: {gui.nome}");
-// Console.WriteLine($"Idade: {gui.idade}");
-// Console.WriteLine($"Matricula: {gui.matricula}");
-// Console.WriteLine($"Curso: {gui.curso}");
-// Console.WriteLine($"Média: {gui.media}");
-// Console.WriteLine();

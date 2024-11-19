@@ -1,7 +1,7 @@
 namespace Construtores.Classes
 {
     public class Jogo
-    {
+    {''
         public string? nome { get; set; }
 
         public int lancamento { get; set; }
